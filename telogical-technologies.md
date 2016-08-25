@@ -66,6 +66,9 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * Kanban, LeankitKanban
 * Repository Pattern
 * APIs
+* REST
+* http
+* fiddler
 * REST on ASP.NET MVC
 * JSON
 * JSON.NET
@@ -128,6 +131,7 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * Express
 * jasmine-node
 * Asynchronous code & execution
+* async
 * APIs in Express
 * Middleware
 * Underscore
@@ -148,6 +152,7 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * Promises
 * RSVP
 * Mongoose
+* tedious
 * stylus
 * grid systems
 * Angular Component development
@@ -162,6 +167,9 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * karma
 * protractor
 * slush
+* inquirer
+* liftoff
+* yargs
 * MicroServices
 * Card Architecture
 * Modularization
