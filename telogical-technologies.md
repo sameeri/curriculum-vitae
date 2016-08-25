@@ -120,10 +120,14 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * AutoMapper
 * The concept of "Deleting code makes me happy"
 * JavaScript
-* Node
+* JavaScript patterns
+* NodeJS
+* CommonJS
+* npm
+* semver
 * Express
 * jasmine-node
-* Asynchronous code 
+* Asynchronous code & execution
 * APIs in Express
 * Middleware
 * Underscore
@@ -133,9 +137,13 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * Workflows
 * Grunt
 * gulp
+* browserify
+* bower
+* nodemon
 * Angular
 * ui-router
 * lodash
+* Functional programming
 * Full Stack JS
 * Promises
 * RSVP
@@ -147,12 +155,19 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * sinon
 * chai
 * chai-as-promised
+* istanbul
+* plato
 * hapi
 * joi
 * karma
 * protractor
 * slush
+* MicroServices
+* Card Architecture
+* Modularization
 * react
 * flux
 * material-ui
-* 
+* material-design
+* react-router
+* ES 2015
