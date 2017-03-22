@@ -19,3 +19,14 @@ Over the years, i have learnt my stuff through various medium. Books, blogs, han
 * Channel 9
 * Microsoft Virtual Academy
 
+### Conferences
+
+* Dallas Day of .NET
+* Tulsa 
+* Thunder Plains
+* Oktober fest - Rules conference
+
+
+### User Groups
+
+* OKCJS
