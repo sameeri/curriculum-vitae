@@ -14,6 +14,8 @@ As a part of the 2017 learning radar, these are the key areas/technologies/tools
 
 * WebSockets
 
+* Real time Systems
+
 * Erlang
 
 * Elixir
