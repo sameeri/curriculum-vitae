@@ -1,4 +1,6 @@
-Over the years, i have learnt my stuff through various medium. Books, blogs, hands-on work(the best of all). I have also spent time learning online 
+Over the years, i have learnt my stuff through various medium. 
+
+Books, blogs, hands-on work(the best of all). I have also spent time learning online & attending various conferences and user groups.
 
 ### Classes
 
@@ -22,10 +24,13 @@ Over the years, i have learnt my stuff through various medium. Books, blogs, han
 ### Conferences
 
 * Dallas Day of .NET
-* Tulsa 
+* Tulsa Tech Fest
 * Thunder Plains
 * Oktober fest - Rules conference
 
+### Commuinty
+
+* Techlahoma Foundation
 
 ### User Groups
 
