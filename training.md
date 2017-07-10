@@ -14,6 +14,8 @@ Books, blogs, hands-on work(the best of all). I have also spent time learning on
 ### Online 
 
 * PluralSight
+* Udemy
+* Udacity
 * Egghead.io
 * Coursera
 * Mongo University
