@@ -67,3 +67,17 @@
 * Collaboration
 * Collective Code Ownership
 * Code to Standards and Conventions
+
+### Current Research, Learning and Interests
+
+* Elixir
+* Erlang
+* Distributed Systems
+* Actor Model
+* Rabbit MQ 
+* Messaging patterns/Communication Patterns
+* Event Oriented Architectures
+* Reactive Architectures
+* GraphQL
+* Redux & Ecosystem
+
