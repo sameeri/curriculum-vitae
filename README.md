@@ -93,4 +93,4 @@
 
 ### Previous Technical Experience
 
-In lieu of time, this is currently being created. But a master unorganized list can be found [here]()
+In lieu of time, this is currently being created. But a master unorganized list can be found [here](https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
