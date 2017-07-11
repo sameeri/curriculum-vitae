@@ -28,6 +28,16 @@
 
 * [Techlahoma Foundation - Founding Member](https://www.techlahoma.org/2016/)
 
+#### User Groups
+
+* OKCJS
+
+#### Conferences
+
+* ThunderPlains
+* Tulsa Tech Fest
+* Dallas Day of .NET
+
 ### Philosophy and Motivation
 
 * `kaizen` - The principle of `continuous improvement`
@@ -81,3 +91,6 @@
 * GraphQL
 * Redux & Ecosystem
 
+### Previous Technical Experience
+
+In lieu of time, this is currently being created. But a master unorganized list can be found [here]()
