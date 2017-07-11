@@ -35,7 +35,7 @@
 
 ### Core Thought Processes
 
-**CROWS** : A self made acronymn for the following day to day activities in software design, architecture, and development
+**CROWS** : A self created acronymn for the following day to day activities in software design, architecture, and development
 
 * `Create` 
 * `Read`
