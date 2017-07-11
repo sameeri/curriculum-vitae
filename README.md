@@ -78,6 +78,16 @@
 * Collective Code Ownership
 * Code to Standards and Conventions
 
+### Paradigms
+
+* Functional
+* Object Oriented
+* Event Oriented
+* Static & Dynamic
+* Actor 
+* Imperative
+* Procedural
+
 ### Current Research, Learning and Interests
 
 * Elixir
