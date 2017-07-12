@@ -9,7 +9,7 @@
   
 * Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. 
   * `August 2006 - December 2008`
-  * Percentage : 
+  * Percentage : 65%
   * [Curriculum](Bachelors)
 
 ### Work Experience
@@ -96,6 +96,8 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 
 * Whiteboard
 * Ink and Paper
+
+##### Online/Phone/Desktop
 * The Notes application on my iPhone
 * github
 * Trello
