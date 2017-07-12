@@ -179,9 +179,9 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 This is the current day to day toolset i use to build systems.
 
 * React
-* Redux and Its ecosystem
+* Redux and its ecosystem
 * Material-UI
-* Node
+* Node and its ecosystem
 * MongoDB
 * APIs
 
@@ -215,3 +215,24 @@ Since this is a comprehensive list, an organized list can be found at:
 
 (https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
 
+
+### Human Principles
+
+Owing to my cultural background and the kind of people i have in my life, over the 34 years of my life as a human being, i have had many experiences. 
+
+A lot of my work is to deal with code and collaborating with people. Two things that are quite interesting from a philosophical approach.
+
+I have chosen Kaizen as my mantra to life as well.
+
+But being human, means to make mistakes. 
+
+Although i cannot be always practicing these, they are always in the back of my head.
+
+* Love
+* Kindness
+  * [Be kind to everyone](https://github.com/sindresorhus/gulp-mocha/issues/128#issuecomment-207790268)
+  * [sindresorhus](https://github.com/sindresorhus/ama/issues/413)
+* Patience
+* Listening to people, supporting them with strong encouragement
+* Spirituality
+* Self-Retrospection
