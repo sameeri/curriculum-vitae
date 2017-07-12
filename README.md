@@ -42,7 +42,13 @@
 
 #### User Groups
 
+##### Physically Present
+
 * OKCJS
+
+##### Virtually Present
+
+* Other Oklahoma user communitites at:  https://www.twitch.tv/techlahoma
 
 #### Conferences
 
@@ -52,12 +58,10 @@
 
 ### Philosophy and Motivation
 
-* `kaizen` - The principle of `continuous improvement`
+* `Kaizen` - The principle of `continuous improvement`
 * Follows the principle by practicing `continuous learning`
 
 ### Core Thought Processes
-
-**CROWS** : A self created acronymn for the following day to day activities in software design, architecture, and development
 
 ##### Create
 
@@ -68,6 +72,24 @@
 ##### Write
 
 ##### Share
+
+> **CROWS** : A self created acronymn for the following day to day activities in software design, architecture, and development
+
+#### Thought Tools
+
+Most of my work is about thinking and i continuously rely on tools to improve my thinking. This is my `thought tool set`.
+
+##### Traditional
+
+* Whiteboard
+* Ink and Paper
+* The Notes application on my iPhone
+* github
+* Trello
+* Workflowy
+* OneNote
+* gitbook
+
 
 ## Software Design & Development
 
@@ -132,10 +154,23 @@
 * Elixir
 * Erlang
 
-#### Radar
+##### Learning Radar
 
 * Rust
+* Scala
 * Python
+* Go
+
+### Current Techonlogy Stack
+
+This is the current day to day toolset i use to build systems.
+
+* React
+* Redux and Its ecosystem
+* Material-UI
+* Node
+* MongoDB
+* APIs
 
 ### Current Research, Learning and Interests
 
@@ -150,6 +185,6 @@
 * GraphQL
 * Redux & Ecosystem
 
-### Previous Technical Experience
+### Previous technical toolchain exposure
 
 In lieu of time, this is currently being created. But a master unorganized list can be found [here](https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
