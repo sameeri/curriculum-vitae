@@ -232,9 +232,13 @@ As a part of the 2017 learning radar, these are my prime focus at a great detail
 
 Being an Engineer at Telogical has given me a unique opportunity to work with a myriad of technologies. This includes languages, thought processes, patterns, frameworks, libraries and stacks.
 
+I consider most of these as tools. Some are best fit in some use cases, and some in others.
+
+An amalgamation of all things gives a comprehensive overview of choosing the right tool for a given problem. `opinion`
+
 Since this is a comprehensive list, an organized list can be found at:
 
-(https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
+[Technology toolset](https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
 
 
 ### Human Principles
