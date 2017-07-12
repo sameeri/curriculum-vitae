@@ -74,11 +74,10 @@ To enable this approach, i have to have a set of supporting systems.
 
 Since this can be made as a list of lists, i have grouped them accordingly.
 
-###### [Writings]()
-###### [Whiteboarding]()
-###### [Notes]()
-###### [Training]()
-###### [Discover]()
+###### [Writings](https://github.com/sameeri/curriculum-vitae/blob/master/writings.md)
+###### [Whiteboarding](https://github.com/sameeri/whiteboarding-thoughts)
+###### [Training](https://github.com/sameeri/curriculum-vitae/blob/master/training.md)
+###### [Discover](https://github.com/sameeri/discover)
 
 ### Core Thought Processes
 
