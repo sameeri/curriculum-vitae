@@ -2,8 +2,15 @@
 
 ### Education
 
-* Masters in Computer Science, The University of Oklahoma, Norman, OK.  `August 2006 - December 2008`
-* Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. `August 2006 - December 2008`
+* Masters in Computer Science, The University of Oklahoma, Norman, OK.  
+  * `August 2006 - December 2008`
+  * GPA : 3.9
+  * [Curriculum](Masters)
+  
+* Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. 
+  * `August 2006 - December 2008`
+  * Percentage : 
+  * [Curriculum](Bachelors)
 
 ### Work Experience
 
@@ -15,12 +22,17 @@
 
 ### Work Places
 
-* Telogical Systems, LLC `February 16, 2009 - Present`
-* PoroMechanics Institute, The University of Oklahoma `September 2006 - December 2008`
+* Telogical Systems, LLC 
+  * `February 16, 2009 - Present`
+* PoroMechanics Institute, The University of Oklahoma 
+  * `September 2006 - December 2008`
 
 ### Social
 
-* [Whack-Whack](http://www.whack-whack.info/) `blog`
+* [Whack-Whack - Web Application Space](http://www.whack-whack.info/) 
+  * `technical blog` 
+* [sameeri.github.io](http://sameeri.github.io/)
+  * `personal blog`
 * [Github](https://github.com/sameeri)
 * [LinkedIn](https://www.linkedin.com/in/sameeri-marryboyina-26560a10/)
 
@@ -47,11 +59,15 @@
 
 **CROWS** : A self created acronymn for the following day to day activities in software design, architecture, and development
 
-* `Create` 
-* `Read`
-* `Open`
-* `Write`
-* `Share`
+##### Create
+
+##### Read
+
+##### Open
+
+##### Write
+
+##### Share
 
 ## Software Design & Development
 
@@ -60,6 +76,7 @@
 * Kanban
 * Extreme Programming
 * Scrum/Agile (earlier days in Telogical)
+* LEAN Startup
 
 ### Practices
 
@@ -71,10 +88,12 @@
 * Behavior Driven Development
 * Code reviews
 * Continuous Design
+* Continuous Testing
 * Continuous Refactoring
 * Continuous Integration
 * Continuos Deployment
 * Collaboration
+* Cross functional team structures
 * Collective Code Ownership
 * Code to Standards and Conventions
 
@@ -87,6 +106,34 @@
 * Actor 
 * Imperative
 * Procedural
+
+### Programming Languages
+
+#### Primary
+
+* JavaScript
+* C#
+
+#### Secondary
+* Ruby
+* Java
+
+#### School Projects 
+* C
+* VB
+* C++/VC++
+* COBOL
+* Assembly
+
+#### Learning mode
+
+* Elixir
+* Erlang
+
+#### Radar
+
+* Rust
+* Python
 
 ### Current Research, Learning and Interests
 
