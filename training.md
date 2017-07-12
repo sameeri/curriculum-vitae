@@ -14,22 +14,6 @@ Books, blogs, hands-on work(the best of all). I have also spent time learning on
 * Channel 9
 * Microsoft Virtual Academy
 
-### Conferences
-
-* Dallas Day of .NET
-* Tulsa Tech Fest
-* Thunder Plains
-* Oktober fest - Rules conference
-
-### Commuinty
-
-* Techlahoma Foundation
-
-### User Groups
-
-* OKCJS
-
-
 ### Classes
 
 * .NET 2.0 Certfication class. Tulsa Community College.
