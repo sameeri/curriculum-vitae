@@ -228,13 +228,14 @@ I have chosen Kaizen as my mantra to life as well.
 
 But being human, means to make mistakes. 
 
-Although i cannot be always practicing these, they are always in the back of my head.
+Although i cannot be always practicing these, they are always in the back of my head, and are the core pillars that I stand on.
 
 * Love
 * Kindness
   * [Be kind to everyone](https://github.com/sindresorhus/gulp-mocha/issues/128#issuecomment-207790268)
   * [sindresorhus](https://github.com/sindresorhus/ama/issues/413)
 * Patience
+* Humility
 * Listening to people, supporting them with strong encouragement
 * Spirituality
 * Self-Retrospection
