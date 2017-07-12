@@ -128,11 +128,13 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 * Continuous Testing
 * Continuous Refactoring
 * Continuous Integration
-* Continuos Deployment
+* Continuous Deployment
 * Documentation aimed for developers
 * Collaboration
 * Cross functional team structures
 * Collective Code Ownership
+* Clean code
+* Software craftsmanship
 * Code to industry Standards and Conventions
 * Setting up conventions, best practices, patterns, and establish thought processes
 
