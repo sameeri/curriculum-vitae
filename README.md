@@ -92,10 +92,12 @@
 * Continuous Refactoring
 * Continuous Integration
 * Continuos Deployment
+* Documentation aimed for developers
 * Collaboration
 * Cross functional team structures
 * Collective Code Ownership
-* Code to Standards and Conventions
+* Code to industry Standards and Conventions
+* Setting up conventions, best practices, patterns, and establish thought processes
 
 ### Paradigms
 
