@@ -60,7 +60,7 @@ I have played the role of an attendee/particpants at major conferences. I have n
 
 ### Philosophy and Motivation
 
-* `Kaizen` - The principle of `continuous improvement`
+* `Kaizen` - The principle of continuous improvement
 
 The Kaizen principle has been introduced to be my chief mentor Ray. 
 
@@ -117,7 +117,7 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 
 ### Practices
 
-`All core extreme programming practices practiced every day`.
+> All core extreme programming practices practiced every day
 
 * Version Control
 * Pair Programming
