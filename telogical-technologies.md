@@ -1,5 +1,6 @@
 ### Context
-Over the year at Telogical, i have worked on stuff. These are a list of all those things. They are mostly ordered in the way in i have learnt, used them at work & otherwise.
+Over the years at Telogical, i have worked on stuff. These are a list of all those things. They are mostly ordered in the way in i have learnt, used them at work & otherwise.
+
 These can be languages, libraries, frameworks, tools,  practices, patterns, paradigms etc. 
 
 * Subversion
@@ -179,3 +180,9 @@ These can be languages, libraries, frameworks, tools,  practices, patterns, para
 * material-design
 * react-router
 * ES 2015
+* ESLint
+* Webpack
+* react-boiler-plate
+* redux
+* redux ecosystem
+* jest
