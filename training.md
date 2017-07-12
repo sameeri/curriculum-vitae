@@ -1,6 +1,3 @@
-Over the years, i have learnt my stuff through various medium. 
-
-Books, blogs, hands-on work(the best of all). I have also spent time learning online & attending various conferences and user groups.
 
 ### Online 
 
@@ -9,6 +6,7 @@ Books, blogs, hands-on work(the best of all). I have also spent time learning on
 * Udacity
 * Egghead.io
 * Coursera
+* FutureLearn
 * Mongo University
 * Youtube
 * Channel 9
