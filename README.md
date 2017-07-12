@@ -11,21 +11,21 @@
   * `August 2006 - December 2008`
   * Percentage : 65%
   * [Curriculum](Bachelors)
+ 
+### Work Places
 
-### Work Experience
+* Telogical Systems, LLC 
+  * `February 16, 2009 - Present`
+* PoroMechanics Institute, The University of Oklahoma 
+  * `September 2006 - December 2008` 
+
+### Work Roles, Experience
 
 * Senior Software Engineer, (Software Engineer II)  Telogical Systems, LLC
 * Software Engineer, (Software Engineer I) Telogical Systems, LLC
 * Database Analyst, Telogical Systems, LLC
 * Senior Intern, Telogical Systems, LLC
 * Application Developer, PoroMechanics Institute, The University of Oklahoma
-
-### Work Places
-
-* Telogical Systems, LLC 
-  * `February 16, 2009 - Present`
-* PoroMechanics Institute, The University of Oklahoma 
-  * `September 2006 - December 2008`
 
 ### Social
 
