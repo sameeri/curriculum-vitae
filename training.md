@@ -1,4 +1,8 @@
 
+## Summary
+
+Over the years, i have invested in learning through these resources. 
+
 ### Online 
 
 * PluralSight
