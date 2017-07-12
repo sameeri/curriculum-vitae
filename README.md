@@ -98,7 +98,7 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 * Ink and Paper
 
 ##### Online/Phone/Desktop
-* The Notes application on my iPhone
+* iPhone Notes
 * github
 * Trello
 * Workflowy
