@@ -5,12 +5,10 @@
 * Masters in Computer Science, The University of Oklahoma, Norman, OK.  
   * `August 2006 - December 2008`
   * GPA : 3.9
-  * [Curriculum](Masters)
   
 * Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. 
   * `August 2006 - December 2008`
   * Percentage : 65%
-  * [Curriculum](Bachelors)
  
 ### Work Places
 
