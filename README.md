@@ -143,6 +143,8 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 
 ### Paradigms
 
+Continuously exploring the various paradigms to have a broader perspective on thought processes in application/system design and architecture.
+
 * Functional
 * Object Oriented
 * Event Oriented
@@ -150,6 +152,18 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 * Actor 
 * Imperative
 * Procedural
+
+### Patterns
+
+Continuously discovering and learning the various kinds of patterns one gets to see as a Software Engineer. 
+
+* Architectural Patterns
+* Object Oriented Design Patterns
+* Integration Patterns
+* Language Specific Patterns
+* Framework Specific Patterns
+
+> This involves studying code, systems, implementating, refactoring existing code to patterns, whiteboarding and other kinds of approaches.
 
 ### Programming Languages
 
