@@ -59,7 +59,6 @@
 ### Philosophy and Motivation
 
 * `Kaizen` - The principle of `continuous improvement`
-* Follows the principle by practicing `continuous learning`
 
 ### Core Thought Processes
 
