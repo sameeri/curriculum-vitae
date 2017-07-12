@@ -92,7 +92,7 @@ Since this can be made as a list of lists, i have grouped them accordingly.
 
 #### Thought Tools
 
-Most of my work is about thinking and i continuously rely on tools to improve my thinking. This is my `thought tool set`.
+Most of my work is about thinking and I continuously rely on tools to improve my thinking. This is my `thought tool set`.
 
 ##### Traditional
 
@@ -227,7 +227,7 @@ As a part of the 2017 learning radar, these are my prime focus at a great detail
 * Electron
 * ElasticSearch
 
-### Technical toolset exposure
+### Technical Exposure
 
 Being an Engineer at Telogical has given me a unique opportunity to work with a myriad of technologies. This includes languages, thought processes, patterns, frameworks, libraries and stacks.
 
@@ -250,14 +250,22 @@ I have chosen Kaizen as my mantra to life as well.
 
 But being human, means to make mistakes. 
 
-Although i cannot be always practicing these, they are always in the back of my head, and are the core pillars that I stand on.
+Although I cannot be always practicing these, they are always in the back of my head, and are the core pillars that I stand on.
 
 * Love
 * Kindness
-  * [Be kind to everyone](https://github.com/sindresorhus/gulp-mocha/issues/128#issuecomment-207790268)
-  * [sindresorhus](https://github.com/sindresorhus/ama/issues/413)
 * Patience
 * Humility
 * Listening to people, supporting them with strong encouragement
 * Spirituality
 * Self-Retrospection
+
+##### People(Heroes)
+
+Human beings are amazing. I love to learn from people. 
+
+In recent times, these are some of the people i have come to know about and in love with. They are brilliant, kind and have personalities that I truly appreciate.
+
+* Jose Valim
+* Dan Abramov
+* sindresorhus
