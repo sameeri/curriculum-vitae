@@ -8,8 +8,7 @@
   
 * Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. 
   * `August 2006 - December 2008`
-  * Percentage : 65%
- 
+  
 ### Work Places
 
 * Telogical Systems, LLC 
