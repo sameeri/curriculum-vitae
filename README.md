@@ -74,6 +74,12 @@ To enable this approach, i have to have a set of supporting systems.
 
 Since this can be made as a list of lists, i have grouped them accordingly.
 
+###### [Writings]()
+###### [Whiteboarding]()
+###### [Notes]()
+###### [Training]()
+###### [Discover]()
+
 ### Core Thought Processes
 
 ##### Create
