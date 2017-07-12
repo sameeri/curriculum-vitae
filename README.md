@@ -52,6 +52,8 @@
 
 #### Conferences
 
+I have played the role of an attendee/particpants at major conferences. I have not spoken outside of Telogical, but going forward this is going to be a key element in my growth.
+
 * ThunderPlains
 * Tulsa Tech Fest
 * Dallas Day of .NET
@@ -59,6 +61,18 @@
 ### Philosophy and Motivation
 
 * `Kaizen` - The principle of `continuous improvement`
+
+The Kaizen principle has been introduced to be my chief mentor Ray. 
+
+### Continous Learning
+
+To practice Kaizen, i have to adopt the path of Continuos learning.
+
+I have an approach to learning. I like to read, gain insight by observation, experiment and study deeply.
+
+To enable this approach, i have to have a set of supporting systems. 
+
+Since this can be made as a list of lists, i have grouped them accordingly.
 
 ### Core Thought Processes
 
@@ -87,8 +101,8 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 * Trello
 * Workflowy
 * OneNote
+* realtimeboard.com 
 * gitbook
-
 
 ## Software Design & Development
 
@@ -132,23 +146,23 @@ Most of my work is about thinking and i continuously rely on tools to improve my
 
 ### Programming Languages
 
-#### Primary
+##### Primary
 
 * JavaScript
 * C#
 
-#### Secondary
+##### Secondary
 * Ruby
 * Java
 
-#### School Projects 
+##### School Projects 
 * C
 * VB
 * C++/VC++
 * COBOL
 * Assembly
 
-#### Learning mode
+##### Learning mode
 
 * Elixir
 * Erlang
@@ -173,17 +187,31 @@ This is the current day to day toolset i use to build systems.
 
 ### Current Research, Learning and Interests
 
+As a part of the 2017 learning radar, these are my prime focus at a great detail.
+
 * Elixir
 * Erlang
+* Pheonix 
 * Distributed Systems
 * Actor Model
-* Rabbit MQ 
-* Messaging patterns/Communication Patterns
-* Event Oriented Architectures
+* Event Oriented Systems
+* AMQP
+* RabbitMQ
+* WebSockets
+* Real time Systems
+* RxJS
+* Reactive Programming
 * Reactive Architectures
-* GraphQL
-* Redux & Ecosystem
+* WebVR
+* Abstract Syntax Trees
+* Electron
+* ElasticSearch
 
-### Previous technical toolchain exposure
+### Technical toolset exposure
 
-In lieu of time, this is currently being created. But a master unorganized list can be found [here](https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
+Being an Engineer at Telogical has given me a unique opportunity to work with a myriad of technologies. This includes languages, thought processes, patterns, frameworks, libraries and stacks.
+
+Since this is a comprehensive list, an organized list can be found at:
+
+(https://github.com/sameeri/curriculum-vitae/blob/master/telogical-technologies.md)
+
