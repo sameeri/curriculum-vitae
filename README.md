@@ -152,6 +152,22 @@ Continuously exploring the various paradigms to have a broader perspective on th
 * Imperative
 * Procedural
 
+### Principles
+
+* Modularization
+* Generalization
+* Standardization
+* Divide and Conquer
+* Keep it simple (KISS)
+* Dont Repeat Yourself (DRY)
+* You aint gonna need it (YAGNI)
+* Seperation of concerns
+* Single Responsibility Principle (SRP)
+* Unix Philosophy
+* Eric Raymond's 17 rules
+
+##### 
+
 ### Patterns
 
 Continuously discovering and learning the various kinds of patterns one gets to see as a Software Engineer. 
@@ -260,12 +276,18 @@ Although I cannot be always practicing these, they are always in the back of my 
 * Spirituality
 * Self-Retrospection
 
-##### People(Heroes)
+##### People
 
 Human beings are amazing. I love to learn from people. 
 
 In recent times, these are some of the people i have come to know about and in love with. They are brilliant, kind and have personalities that I truly appreciate.
 
+##### Current Heroes
+
 * Jose Valim
 * Dan Abramov
 * sindresorhus
+  * https://github.com/sindresorhus/ama/issues/413
+  * https://github.com/sindresorhus/gulp-mocha/issues/128#issuecomment-207790268
+  
+  
