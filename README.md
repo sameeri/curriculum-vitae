@@ -276,6 +276,7 @@ Although I cannot be always practicing these, they are always in the back of my 
 * Listening to people, supporting them with strong encouragement
 * Spirituality
 * Self-Retrospection
+* Observation
 
 ##### People
 
