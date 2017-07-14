@@ -249,7 +249,7 @@ Being an Engineer at Telogical has given me a unique opportunity to work with a 
 
 I consider most of these as tools. Some are best fit in some use cases, and some in others.
 
-An amalgamation of all things gives a comprehensive overview of choosing the right tool for a given problem. `opinion`
+> An amalgamation of all things gives a comprehensive overview of choosing the right tool for a given problem. `opinion`
 
 Since this is a comprehensive list, an organized list can be found at:
 
@@ -272,6 +272,7 @@ Although I cannot be always practicing these, they are always in the back of my 
 * Kindness
 * Patience
 * Humility
+* Simplicity
 * Listening to people, supporting them with strong encouragement
 * Spirituality
 * Self-Retrospection
