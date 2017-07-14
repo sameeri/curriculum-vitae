@@ -273,10 +273,12 @@ Although I cannot be always practicing these, they are always in the back of my 
 * Patience
 * Humility
 * Simplicity
+* Honesty
 * Listening to people, supporting them with strong encouragement
 * Spirituality
 * Self-Retrospection
 * Observation
+* Being Passionate
 
 ##### People
 
