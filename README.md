@@ -274,11 +274,14 @@ Although I cannot be always practicing these, they are always in the back of my 
 * Humility
 * Simplicity
 * Honesty
-* Listening to people, supporting them with strong encouragement
+* Listening to people
+* Giving support and strong encouragement for people in need
 * Spirituality
 * Self-Retrospection
 * Observation
 * Being Passionate
+* Continuous pursuit of Knowledge
+* 
 
 ##### People
 
