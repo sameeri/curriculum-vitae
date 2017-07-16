@@ -7,7 +7,7 @@
   * GPA : 3.9
   
 * Bachelors in Computer Science, Jawaharlal Nehru University, Hyderabad, India. 
-  * `August 2006 - December 2008`
+  * `September 2000 - May 2005`
   
 ### Work Places
 
