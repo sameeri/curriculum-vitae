@@ -9,6 +9,7 @@ Over the years, i have invested in learning through these resources.
 * Udemy
 * Udacity
 * Egghead.io
+* BigMachine.io
 * Khan Academy
 * Coursera
 * FutureLearn
