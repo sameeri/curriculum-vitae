@@ -293,6 +293,7 @@ In recent times, these are some of the people i have come to know about and in l
 
 * Jose Valim
 * Dan Abramov
+* Kent C. Dodds
 * sindresorhus
   * https://github.com/sindresorhus/ama/issues/413
   * https://github.com/sindresorhus/gulp-mocha/issues/128#issuecomment-207790268
