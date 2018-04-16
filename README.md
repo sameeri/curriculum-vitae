@@ -220,6 +220,8 @@ This is the current day to day toolset i use to build systems.
 * Node and its ecosystem
 * MongoDB
 * APIs
+* RxJS
+
 
 ### Current Research, Learning and Interests
 
