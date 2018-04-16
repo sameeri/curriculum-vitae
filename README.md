@@ -223,7 +223,7 @@ This is the current day to day toolset i use to build systems.
 * RxJS
 
 
-### Current Research, Learning and Interests
+### Current Interests
 
 As a part of the 2017 learning radar, these are my prime focus at a great detail.
 
